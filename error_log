@@ -1,0 +1,14 @@
+[06-Feb-2019 17:13:22 UTC] PHP Fatal error:  Call to a member function cek_ip() on null in /home/setyasho/public_html/application/controllers/welcome.php on line 21
+[06-Feb-2019 17:14:05 UTC] PHP Fatal error:  Call to a member function paket_footer() on null in /home/setyasho/public_html/application/controllers/welcome.php on line 34
+[04-Apr-2019 20:23:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/beng5877/public_html/application/controllers/testimoni.php:17
+Stack trace:
+#0 /home/beng5877/public_html/system/core/CodeIgniter.php(359): Testimoni->simpan()
+#1 /home/beng5877/public_html/index.php(202): require_once('/home/beng5877/...')
+#2 {main}
+  thrown in /home/beng5877/public_html/application/controllers/testimoni.php on line 17
+[18-Dec-2019 22:03:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/beng5877/public_html/application/controllers/testimoni.php:17
+Stack trace:
+#0 /home/beng5877/public_html/system/core/CodeIgniter.php(359): Testimoni->simpan()
+#1 /home/beng5877/public_html/index.php(202): require_once('/home/beng5877/...')
+#2 {main}
+  thrown in /home/beng5877/public_html/application/controllers/testimoni.php on line 17
