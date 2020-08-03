@@ -13,10 +13,10 @@
 ### IMAGE ###
 
 # Home #
-![Home](https://github.com/hesendwi1411/bengokcraft/blob/master/image/home.jpg)
+![Home](https://github.com/hesendwi1411/bengokcraft/blob/master/image/Home.jpg)
 
 # Product #
-![Product](https://github.com/hesendwi1411/bengokcraft/blob/master/image/product.jpg)
+![Product](https://github.com/hesendwi1411/bengokcraft/blob/master/image/Produk.jpg)
 
 # Dashboard #
-![Dashboard](https://github.com/hesendwi1411/bengokcraft/blob/master/image/dashboard.jpg)
+![Dashboard](https://github.com/hesendwi1411/bengokcraft/blob/master/image/Dashboard.jpg)
